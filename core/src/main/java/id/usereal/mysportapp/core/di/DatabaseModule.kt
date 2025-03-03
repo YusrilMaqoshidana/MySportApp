@@ -8,7 +8,6 @@ import dagger.Provides
 import dagger.hilt.InstallIn
 import dagger.hilt.android.qualifiers.ApplicationContext
 import dagger.hilt.components.SingletonComponent
-import id.usereal.mysportapp.core.data.local.entity.SportEntity
 import id.usereal.mysportapp.core.data.local.room.SportDao
 import id.usereal.mysportapp.core.data.local.room.SportDatabase
 import javax.inject.Singleton
