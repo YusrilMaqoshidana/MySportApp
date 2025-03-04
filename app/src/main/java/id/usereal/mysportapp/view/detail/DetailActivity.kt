@@ -1,4 +1,4 @@
-package id.usereal.mysportapp.detail
+package id.usereal.mysportapp.view.detail
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge

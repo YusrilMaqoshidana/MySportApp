@@ -1,6 +1,5 @@
 package id.usereal.mysportapp.core.data.local.entity
 
-import androidx.annotation.NonNull
 import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.PrimaryKey
